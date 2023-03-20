@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Helvetica", sans-serif;
+  src: local("☺"), url("../fonts/Helvetica-Bold.ttf") format("truetype"),
+    url("../fonts/helvetica-bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Helvetica", sans-serif;
+  src: local("☺"), url("../fonts/Helvetica.ttf") format("truetype"), url("../fonts/helvetica.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
